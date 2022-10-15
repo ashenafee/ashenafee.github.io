@@ -21,7 +21,7 @@
 title: Ashenafee's Portfolio
 email: ashenafeem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Meet Ash, the bofo-visionary who's changing the world one rename at a time.
+    Meet Ash, the bofo-visionary who's changing the world one rename at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ashenafee.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ashenafeee
