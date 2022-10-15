@@ -28,7 +28,7 @@ twitter_username: ashenafeeee
 github_username:  ashenafee
 
 # Build settings
-theme: minimal
+remote_theme: minimal
 plugins:
   - jekyll-feed
 
