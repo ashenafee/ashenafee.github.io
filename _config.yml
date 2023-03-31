@@ -4,8 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
     translating my experience to the black experience
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.ashenafee.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ashenafeeee
-github_username:  ashenafee
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
