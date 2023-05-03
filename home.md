@@ -4,24 +4,40 @@ title: Home
 permalink: /
 ---
 
-# About Me
+Hello, my name is Ashenafee Mandefro and I'm a third-year student at the University of Toronto! Currently, I'm enrolled in a specialist, and a double major:
 
-Hey everyone! My name is **Ashenafee**, but most of you probably know me as **Ash**. I'm currently in my **third year** studying Bioinformatics, Neuroscience, and CS.
+- Bioinformatics & Computational Biology Specialist
+- Neuroscience Major
+- Computer Science Major
 
-In recent times I have been **tuning in** more and more with my **background** by attending BSA events and making new **black friends**.
+If you're curious about my academic and professional background, you can find my resume [here](https://www.ashenafee.com/resume.pdf).
 
-This **feeling**, this **warmth** is one I want to help create which is why I'm running to be your **Educational & Outreach Director** for the 2023 - 2024 BSA Team.
-
-For more information about my campaign, please visit my Instagram page:
-
-- [@ashenafee](https://www.instagram.com/ashenafee/)
-
-If you have any questions, comments, and/or concerns, feel free to message me on Instagram as well.
+Below are some of the projects I've worked on recently. Feel free to connect with me on any of my platforms :)
 
 ---
 
-# How to Vote
+**Projects**
 
-1. Access the [2023-2024 Voting Card](https://docs.google.com/forms/d/e/1FAIpQLSezxXoKGdf6VjMPpEuu15qtf6hfp3HkkieP7n7HbsggaShWOw/viewform).
-2. Fill out the form with your name, email, and student number.
-3. Submit your vote!
+[Bluebase](https://github.com/ashenafee/bluebase): Your UTSG course companion.
+
+[Bluepages](https://github.com/ashenafee/course-project-aarves): Find food spots and study spaces within walking distance from your location at UTSG campus.
+
+[Loadr](https://www.ashenafee.com/LoadrFX/): A video downloader tool with support for MyMedia and YouTube.
+
+[Mirubot](https://github.com/ashenafee/Mirubot): An anime-centric Discord bot. Built for anime-lovers, by an anime-lover (and Python).
+
+[mm-dl](https://github.com/ashenafee/mm-dl): A script to download MyMedia videos using Python and ffmpeg.
+
+[Sci-bot](https://github.com/ashenafee/scibot): A Discord bot for acquiring scientific literature
+
+[SteamUL](https://github.com/ashenafee/SteamUL): An application used to grab and download games from steamunlocked (dot) net
+
+---
+
+**Platforms**
+
+[GitHub](https://github.com/ashenafee)
+
+[LinkedIn](https://www.linkedin.com/in/ashenafee/)
+
+---
